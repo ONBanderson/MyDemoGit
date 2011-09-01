@@ -8,5 +8,6 @@ public class MyGitDemo {
 	
 	public void changePassword() {
 		System.out.println("print change password");
+		System.out.println("added more print");
 	}
 }
