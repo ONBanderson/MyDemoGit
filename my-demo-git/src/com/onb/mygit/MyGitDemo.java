@@ -7,6 +7,6 @@ public class MyGitDemo {
 	}
 	
 	public void changePassword() {
-		
+		System.out.println("print change password");
 	}
 }
