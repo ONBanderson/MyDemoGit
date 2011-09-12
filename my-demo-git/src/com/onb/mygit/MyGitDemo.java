@@ -4,6 +4,7 @@ public class MyGitDemo {
 
 	public void LoginUser() {
 		System.out.println("add changes for cr-001");
+		System.out.println("added change for cr-002!");
 	}
 	
 	public void changePassword() {
